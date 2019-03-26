@@ -5,12 +5,12 @@ namespace Demo;
 include 'vendor/autoload.php';
 $db = array(
     'read'  => array(
-        'host' => '192.168.8.31',
+        'host' => '192.168.1.1',
         'user' => 'root',
         'pswd' => '123456',
     ),
     'write' => array(
-        'host' => '192.168.8.31',
+        'host' => '192.168.1.1',
         'user' => 'root',
         'pswd' => '123456',
     ),

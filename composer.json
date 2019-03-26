@@ -2,9 +2,11 @@
 	"require-dev": {
 		"dormscript/data-transfer": "dev-master"	
 	},
-	"repositories": [{
+	"repositories": [
+    {
         "packagist": false
-    }, {
+    }, 
+    {
         "type": "vcs",
         "url": "https://github.com/dormscript/dataTransfer"
     }],
